@@ -119,16 +119,3 @@ We explored listing behavior by neighborhood:
 - Listings near **Lake Geneva & ski towns** were high-priced and high-demand
 
 ---
-
-## 👨‍💻 Team Members
-
-- Moiz Deshmukh  
-- Prabu Jeyabalan  
-- Jitvan Vij  
-
----
-
-## 📌 License
-
-This project is for academic use under Boston University’s AD699 – Data Mining for Business Analytics.
-
